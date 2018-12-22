@@ -1,1 +1,1 @@
-echo "# Android_user_note"
+# Android_user_note
